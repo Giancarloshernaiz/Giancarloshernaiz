@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi! I'm Giancarlos Hernaiz <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40" height="40" align="center"/></h1>
 
-<h4 style="text-align: justify;">I'm a software engineer student from Venezuela. I’m passionate about coding and love to learn new things. I have experience in Python and Front End Web Developing mainly but I'm currently learning about Machine Learning, Data Science, Databases Management, Node.js, React and Angular </h4>
+<h4 style="text-align: justify;">I'm a software engineer student from Venezuela. I’m passionate about coding and love to learn new things. I have experience in Python and Front End Web Developing mainly, but I'm currently learning about Machine Learning, Data Science, Databases Management, Node.js, React and Angular </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giancarloshernaiz&label=Profile%20views&color=0e75b6&style=flat" alt="giancarloshernaiz" /> </p>
 
