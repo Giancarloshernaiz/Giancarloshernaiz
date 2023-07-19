@@ -26,7 +26,7 @@
 <!-- Instagram -->
 <a href="https://instagram.com/giancarlos.hernaiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="giancarlos.hernaiz" height="30" width="40" /></a>
 <!-- LinkedIn -->
-<a href="https://linkedin.com/in/giancarlos hernaiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giancarlos hernaiz" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/giancarlos hernaiz](https://www.linkedin.com/in/giancarlos-hernaiz-663457284/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giancarlos hernaiz" height="30" width="40" /></a>
 <!-- Leetcode -->
 <a href="https://www.leetcode.com/giancarlos_hernaiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="giancarlos_hernaiz" height="30" width="40" /></a>
 </p>
