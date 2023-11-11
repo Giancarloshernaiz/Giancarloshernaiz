@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Giancarlos Hernaiz <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40" height="40" align="center"/></h1>
+<h1 align="center">Hi, I'm Giancarlos Hernaiz!</h1>
 
 <h4  align="center">I am a 19 years old Software Engineer and Computer Science student from Venezuela, passionate about coding and constantly learning new things. My strength lies in my analysis and problem-solving skills, as well as my ability to work well in teams and communicate effectively. My professional goal is to find a challenging job that allows me to grow and gain experience in the field of technology.</h4>
 
