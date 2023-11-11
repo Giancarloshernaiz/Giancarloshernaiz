@@ -26,7 +26,6 @@
 <img align="left" alt="Express.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 <img align="left" alt="Next.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"  />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -40,8 +39,8 @@
 
 <div>
   <img height=125 align="center" src="https://github-readme-stats.vercel.app/api?username=giancarloshernaiz&show_icons=true&theme=github_dark"/>
-  <img height=125 align="center" src="https://streak-stats.demolab.com?user=Giancarloshernaiz&theme=github-dark-blue&card_width=450" alt="GitHub Streak"/>
   <img height=125 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giancarloshernaiz&theme=github_dark&layout=compact"/>
+  <img height=125 align="center" src="https://streak-stats.demolab.com?user=Giancarloshernaiz&theme=github-dark-blue&card_width=450" alt="GitHub Streak"/>
 </div>
 <br/> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giancarloshernaiz&label=Profile%20views&color=0e75b6&style=flat" alt="giancarloshernaiz" /> </p>
