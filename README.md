@@ -1,17 +1,17 @@
-
 <h1 align="center">Hi! I'm Giancarlos Hernaiz <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40" height="40" align="center"/></h1>
+
 <h4  align="center">I am a 19 years old Software Engineer and Computer Science student from Venezuela, passionate about coding and constantly learning new things. My strength lies in my analysis and problem-solving skills, as well as my ability to work well in teams and communicate effectively. My professional goal is to find a challenging job that allows me to grow and gain experience in the field of technology.</h4>
 
 ---
 
-### Contact Information
+### 📱 Contact Information
 - Email: [giancarloshernaiz16@gmail.com](mailto:giancarloshernaiz16@gmail.com)
 - LinkedIn: [Giancarlos Hernáiz](https://www.linkedin.com/in/giancarlos-hernaiz-663457284)
 - Instagram: <a href="https://instagram.com/giancarlos.hernaiz"/>@giancarlos.hernaiz</a>
-- Phone: <a href="https://wa.me/+584165495111"/>+58 416-5495111</a>
+
 #
 
-### Languages and Tools
+### 🧰 Languages and Tools
 
 <p align="left">
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
@@ -35,7 +35,7 @@
 
 #
 
-### Stats
+### 📊 Stats
 
 <div>
   <img height=125 align="center" src="https://github-readme-stats.vercel.app/api?username=giancarloshernaiz&show_icons=true&theme=github_dark"/>
@@ -50,4 +50,5 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Giancarloshernaiz&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
+#
 ---
